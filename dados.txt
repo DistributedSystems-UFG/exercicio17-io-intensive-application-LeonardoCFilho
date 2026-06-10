@@ -1,0 +1,10 @@
+linha 01: Python é incrível
+linha 02: Sistemas Distribuídos
+linha 03: Threads são poderosas
+linha 04: Servidor single-threaded vs multi-threaded
+linha 05: Pool de threads reutiliza recursos
+linha 06: Benchmark de desempenho
+linha 07: Arquivo de dados do servidor
+linha 08: Leitura de dados via rede
+linha 09: Comparação de vazão
+linha 10: Fim do arquivo de dados
